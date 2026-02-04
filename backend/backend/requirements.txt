@@ -55,4 +55,6 @@ pyenchant==3.3.0
 PyDictionary==2.0.1
 gunicorn
 pymysql
+whitenoise
+
 
